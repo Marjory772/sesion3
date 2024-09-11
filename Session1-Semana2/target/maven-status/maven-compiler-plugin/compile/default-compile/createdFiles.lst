@@ -1,0 +1,4 @@
+com\example\session1semana2\Session1Semana2Application.class
+com\example\session1semana2\controllers\Controller.class
+com\example\session1semana2\models\Servicios.class
+com\example\session1semana2\repository\Repository.class
